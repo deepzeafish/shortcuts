@@ -6,11 +6,14 @@
 |===
 |Function |Shortcut
 
+|Language Mode
+|Cmd + K M
+
 |Toggle terminal / editor
 |Ctr + `
 
-|Navigate Symbols
-|Ctrl + Shift + .
+|Navigate Symbols sorted
+|Cmd + Shift + O :
 
 |Last used files
 |Cmd + P
@@ -20,7 +23,4 @@
 
 |Select Word (Repeatable)
 |Cmd + D
-
-|Show Symbols sorted
-|Cmd + Shift + O :
 |===
