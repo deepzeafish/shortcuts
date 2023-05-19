@@ -1,1 +1,26 @@
-# shortcuts
+= shortcuts
+
+== Visual Studio Code
+
+[cols="1,1"]
+|===
+|Function |Shortcut
+
+|Toggle terminal / editor
+|Ctr + `
+
+|Navigate Symbols
+|Ctrl + Shift + .
+
+|Last used files
+|Cmd + P
+
+|Goto Line
+|Ctrl + G
+
+|Select Word (Repeatable)
+|Cmd + D
+
+|Show Symbols sorted
+|Cmd + Shift + O :
+|===
